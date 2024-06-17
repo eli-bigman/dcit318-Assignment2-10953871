@@ -1,4 +1,4 @@
-﻿namespace dcit318_assignment2_10953871
+﻿namespace Animal
 {
     internal class AnimalProgram
     {
